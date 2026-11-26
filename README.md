@@ -51,7 +51,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/swearnness/swearness/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/swearness/swearness/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
