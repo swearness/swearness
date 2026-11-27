@@ -82,26 +82,6 @@ Telegram bot project.
 
 </div>
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swearness&bg_color=ffffff&color=57606a&line=24292f&point=24292f&area=true&hide_border=true" width="100%" />
-
-</div>
-
-## Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swearness/swearness/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swearness/swearness/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/swearness/swearness/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
